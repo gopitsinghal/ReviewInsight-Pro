@@ -5,7 +5,10 @@ ReviewInsight Pro is a Python-based automated analytics tool that extracts custo
 
 This project uses BestBuy’s official public API and applies Natural Language Processing (NLP) techniques to classify and analyze reviews.
 
-
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![GitHub stars](https://img.shields.io/github/stars/gopitsinghal/yt-play?style=social)](https://github.com/gopitsinghal/yt-play/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/gopitsinghal/yt-play?style=social)](https://github.com/gopitsinghal/yt-play/network/members)  
 ---
 
 # 🚀 Why ReviewInsight Pro?
