@@ -1,11 +1,10 @@
-# ReviewInsight-Pro
-
 # 📊 ReviewInsight Pro  
 ### BestBuy Review Scraper & Sentiment Intelligence Tool
 
 ReviewInsight Pro is a Python-based automated analytics tool that extracts customer reviews from **BestBuy Canada**, performs **sentiment analysis**, and generates **business insights** from customer feedback.
 
-It uses BestBuy’s official public API and applies NLP techniques to classify and analyze reviews.
+This project uses BestBuy’s official public API and applies Natural Language Processing (NLP) techniques to classify and analyze reviews.
+
 
 ---
 
@@ -18,22 +17,6 @@ It uses BestBuy’s official public API and applies NLP techniques to classify a
 - 📁 Clean CSV Export
 - 🔄 Multi-Product Support
 - 💻 Fully Offline Sentiment Support
-
----
-
-# 🏷 Alternative Catchy Tool Names (Optional)
-
-If you'd like to rename the tool, here are strong portfolio-ready options:
-
-- **Sentilytics**
-- **ReviewMiner AI**
-- **InsightScrape**
-- **OpinionPulse**
-- **CustomerLens**
-- **FeedbackIQ**
-- **ReviewScope**
-
-You can rename the repository accordingly.
 
 ---
 
