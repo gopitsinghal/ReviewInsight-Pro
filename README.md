@@ -154,17 +154,14 @@ If NLTK download fails due to network restrictions, follow these steps:
 
 Step 1: Download VADER Lexicon
 
-Download manually from:
-
-👉 https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/sentiment/vader_lexicon.zip
-
-Extract the file.
+    Download manually from:
+    👉 https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/sentiment/vader_lexicon.zip
+    Extract the file.
+---
 
 Step 2: Create Required Folder Structure
-
-Go to:
-C:\Users\<your-username>\AppData\Roaming\nltk_data
-
+  Go to:
+  C:\Users\<your-username>\AppData\Roaming\nltk_data
 
 Create this exact structure:
 ```
@@ -179,12 +176,15 @@ nltk_data
 - Create a folder named vader_lexicon.zip (even though it's a folder)
 - Place vader_lexicon.txt inside it
 
+---
+
 Step 3: Verify Installation
 Run:
 ```bash
 python VADER_verifier.py
 ```
 If no error appears → Setup successful.
+
 ## ▶️ How to Run the Tool
 Use this command:
 ```bash
@@ -192,24 +192,19 @@ python bestbuy_reviews_api_scraper_v4.py "<product_url>"
 ```
 
 Example
-python bestbuy_reviews_api_scraper_v4.py "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-s25-fe-128gb-jet-black-unlocked/19411402"
+**python bestbuy_reviews_api_scraper_v4.py "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-s25-fe-128gb-jet-black-unlocked/19411402"**
+
+---
 
 # 📁 Output
 
 After execution:
-
-CSV file generated:
-
-bestbuy_reviews_<product_id>.csv
-
-
-Console displays:
-
-Total reviews fetched
-
-Sentiment distribution
-
-Business insights summary
+**- CSV file generated:**
+  ``` bestbuy_reviews_<product_id>.csv ```
+**- Console displays:**
+  - Total reviews fetched
+  - Sentiment distribution
+  - Business insights summary
 
 ## 🔄 Sorting Options
 
