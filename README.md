@@ -191,6 +191,9 @@ Example
 ---
 
 # 📁 Output
+## 📸 Screenshots
+### Main UI  
+![Main UI](Output Screenshot.png) 
 
 After execution:
 **CSV file generated:**
