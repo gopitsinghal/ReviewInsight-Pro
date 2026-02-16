@@ -35,7 +35,6 @@ This project uses BestBuy’s official public API and applies Natural Language P
   - Highest Rating
   - Lowest Rating
 
----
 
 ### ✅ Extracted Fields
 
@@ -51,7 +50,6 @@ This project uses BestBuy’s official public API and applies Natural Language P
 | sentiment | Sentiment Category |
 | sentiment_score | Polarity Score |
 
----
 
 ### ✅ Sentiment Analysis
 - Uses **NLTK VADER**
@@ -62,7 +60,6 @@ This project uses BestBuy’s official public API and applies Natural Language P
   - Neutral
   - Negative
 
----
 
 ### ✅ Anti-Scraping Protection
 - Rotating User-Agents
@@ -71,7 +68,6 @@ This project uses BestBuy’s official public API and applies Natural Language P
 - Rate limiting
 - Session-based requests
 
----
 
 ### ✅ Business Insights Engine
 Analyzes keywords related to:
@@ -91,8 +87,6 @@ Outputs:
 ---
 
 # 🛠 Installation Guide (Step-by-Step)
-
----
 
 ## 1️⃣ Install Python
 
@@ -199,9 +193,10 @@ Example
 # 📁 Output
 
 After execution:
-**- CSV file generated:**
+**CSV file generated:**
   ``` bestbuy_reviews_<product_id>.csv ```
-**- Console displays:**
+
+**Console displays:**
   - Total reviews fetched
   - Sentiment distribution
   - Business insights summary
@@ -224,17 +219,16 @@ Available options:
 ## 🌐 Using Proxies (Optional)
 
 If you own proxies:
-
+```
 proxies = {
     "http": "http://user:pass@proxy:port",
     "https": "http://user:pass@proxy:port"
 }
-
-Then pass:
-  proxies=proxies
-
-If not using proxies:
-  proxies=None
+```
+**Then pass:**
+  ``` proxies=proxies ```
+**If not using proxies**:
+  ``` proxies=None ```
 
 ## 📊 Sample Business Insight Output
 ```bash
@@ -250,61 +244,41 @@ If not using proxies:
   ]
 }
 ```
+---
 
 ## 🛡 Ethical Scraping Notice
-
-Only publicly available data is accessed
-
-No login required
-
-No authentication bypass
-
-No private information collected
-
-API-based structured extraction
-
-Respectful request frequency
-
+- Only publicly available data is accessed
+- No login required
+- No authentication bypass
+- No private information collected
+- API-based structured extraction
+- Respectful request frequency
 This project is intended for educational and research purposes only.
 
 ## 📉 Limitations
-
-Works only for BestBuy Canada
-
-Dependent on API availability
-
-Keyword-based aspect extraction
-
-Lexicon-based sentiment (limited sarcasm detection)
+- Works only for BestBuy Canada
+- Dependent on API availability
+- Keyword-based aspect extraction
+- Lexicon-based sentiment (limited sarcasm detection)
 
 ## 🚀 Future Improvements
-
-BERT-based sentiment analysis
-
-Topic modeling
-
-Web dashboard (Streamlit)
-
-Multi-platform scraping
-
-Visualization layer
-
-Real-time monitoring
+- BERT-based sentiment analysis
+- Topic modeling
+- Web dashboard (Streamlit)
+- Multi-platform scraping
+- Visualization layer
+- Real-time monitoring
 
 ## 🎯 Use Cases
-
-Market research
-
-Customer feedback analytics
-
-Academic research
-
-Business intelligence
-
-Product improvement strategy
+- Market research
+- Customer feedback analytics
+- Academic research
+- Business intelligence
+- Product improvement strategy
+---
 
 ## 👨‍💻 Author
 
-Developed by: Gopit Singhal
+**Developed by: Gopit Singhal
 Project Type: Data Engineering + NLP
-Year: 2026
+Year: 2026**
