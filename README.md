@@ -182,11 +182,11 @@ If no error appears → Setup successful.
 ## ▶️ How to Run the Tool
 Use this command:
 ```bash
-python bestbuy_reviews_api_scraper_v4.py "<product_url>"
+python bestbuy_reviews_api_scraper.py "<product_url>"
 ```
 
 Example
-**python bestbuy_reviews_api_scraper_v4.py "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-s25-fe-128gb-jet-black-unlocked/19411402"**
+**python bestbuy_reviews_api_scraper.py "https://www.bestbuy.ca/en-ca/product/samsung-galaxy-s25-fe-128gb-jet-black-unlocked/19411402"**
 
 ---
 
