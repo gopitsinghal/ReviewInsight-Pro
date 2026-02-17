@@ -193,7 +193,7 @@ Example
 # 📁 Output
 ## 📸 Screenshots
 ### Main UI  
-![Main UI](Output Screenshot.png) 
+![Output Screenshot](./Output.png) 
 
 After execution:
 **CSV file generated:**
