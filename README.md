@@ -193,8 +193,9 @@ Example
 # 📁 Output
 ## 📸 Screenshots
 ### Main UI  
-![Output Screenshot](./Output.png) 
-
+![Webpage Screenshot](./Output.png) 
+![CMD Output Screenshot](./Output.png) 
+![Excel CSV Screenshot](./Output.png) 
 After execution:
 **CSV file generated:**
   ``` bestbuy_reviews_<product_id>.csv ```
