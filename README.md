@@ -193,8 +193,8 @@ Example
 # 📁 Output
 ## 📸 Screenshots
 ### Main UI  
-![Webpage Screenshot](./Output.png) 
-![CMD Output Screenshot](./Output.png) 
+![Webpage Screenshot](./Product.png) 
+![CMD Output Screenshot](./Excel_output.png) 
 ![Excel CSV Screenshot](./Output.png) 
 After execution:
 **CSV file generated:**
